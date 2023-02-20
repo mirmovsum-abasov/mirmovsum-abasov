@@ -44,10 +44,4 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/mirmovsum-absov/mirmovsum-absov.svg" />
 </p>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/abasovmirmovsum" target="_blank">
-      <img width="30%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
-
 ---
