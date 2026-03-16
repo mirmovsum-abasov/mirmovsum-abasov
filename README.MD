@@ -112,7 +112,7 @@ I build and scale **B2B SaaS products** in startup environments — taking full 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirmovsum-abasov&theme=github_dark&hide_border=true&border_radius=10&title_color=326CE5&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirmovsum-abasov&theme=github_dark&hide_border=true&border_radius=10&title_color=326CE5&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=c%2523" width="40%" />
 </div>
 
 ---
