@@ -143,22 +143,6 @@ currently:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirmovsum-abasov)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miri.abasov)
 
-<br/>
-
-```
-              ____________________________
-             |                            |
-             |   Thanks for stopping by!  |
-             |      Let's build cool      |
-             |     stuff together. 🚀     |
-             |____________________________|
-                        \   ^__^
-                         \  (oo)\_______
-                            (__)\       )\/\
-                                ||----w |
-                                ||     ||
-```
-
 </div>
 
 <!-- Footer -->
