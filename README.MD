@@ -133,43 +133,6 @@ currently:
 <img src="https://raw.githubusercontent.com/mirmovsum-abasov/mirmovsum-abasov/output/github-contribution-grid-snake-dark.svg" width="98%" />
 </div>
 
-> ⚠️ **Snake animasyonunu aktif etmek için** aşağıdaki GitHub Action'ı repo'na eklemelisin.
-
-<details>
-<summary><b>📋 Snake Animation Setup (tıkla)</b></summary>
-
-Repo'nda `.github/workflows/snake.yml` dosyası oluştur:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: mirmovsum-abasov
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=326CE5&color_dots=#1b3a5c,#234d7a,#2c6098,#3574b6,#326CE5
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-```
-
-Sonra repo **Settings → Actions → General → Workflow permissions** kısmından **Read and write permissions** seç.
-
-</details>
-
 ---
 
 <!-- 3D Profile -->
@@ -179,41 +142,6 @@ Sonra repo **Settings → Actions → General → Workflow permissions** kısmı
 <img src="https://raw.githubusercontent.com/mirmovsum-abasov/mirmovsum-abasov/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%" />
 </div>
 
-> ⚠️ **3D Contribution Graph'ı aktif etmek için** aşağıdaki GitHub Action'ı repo'na eklemelisin.
-
-<details>
-<summary><b>📋 3D Contribution Graph Setup (tıkla)</b></summary>
-
-Repo'nda `.github/workflows/3d-contrib.yml` dosyası oluştur:
-
-```yaml
-name: 3D Contribution
-
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-          USERNAME: mirmovsum-abasov
-      - name: Commit & Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --staged --quiet || git commit -m "Update 3D contribution graph"
-          git push
-```
-
-</details>
-
 ---
 
 <!-- Activity Graph -->
@@ -222,22 +150,6 @@ jobs:
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirmovsum-abasov&bg_color=0d1117&color=94a3b8&line=326CE5&point=326CE5&area=true&area_color=326CE5&hide_border=true&custom_title=Contribution%20Activity" width="98%" />
 </div>
-
----
-
-<!-- Spotify -->
-## `> now-playing --source spotify`
-
-<div align="center">
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=326CE5" width="400" />
-</a>
-</div>
-
-> ⚠️ **Spotify widget'ını aktif etmek için:**
-> 1. [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com/) adresine git
-> 2. Spotify hesabınla giriş yap
-> 3. Sana verilen `uid` değerini yukarıdaki URL'de `YOUR_SPOTIFY_ID` yerine yaz
 
 ---
 
