@@ -126,24 +126,6 @@ currently:
 
 ---
 
-<!-- 3D Contribution Graph -->
-## `> git log --graph --3d`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mirmovsum-abasov/mirmovsum-abasov/output/github-contribution-grid-snake-dark.svg" width="98%" />
-</div>
-
----
-
-<!-- 3D Profile -->
-## `> render --3d contributions`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mirmovsum-abasov/mirmovsum-abasov/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%" />
-</div>
-
----
-
 <!-- Activity Graph -->
 ## `> git log --activity`
 
