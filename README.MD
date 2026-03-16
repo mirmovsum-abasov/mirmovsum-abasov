@@ -163,7 +163,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
 ```
 
 Sonra repo **Settings → Actions → General → Workflow permissions** kısmından **Read and write permissions** seç.
@@ -201,7 +201,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
           USERNAME: mirmovsum-abasov
       - name: Commit & Push
         run: |
