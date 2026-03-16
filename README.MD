@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a5c,100:326ce5&height=220&section=header&text=Miri%20Abasov&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20DevOps&descSize=18&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a5c,100:326ce5&height=220&section=header&text=Miri%20Abasov&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20|%20Backend%20|%20DevOps&descSize=18&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=326CE5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Building+scalable+B2B+SaaS+products;From+code+to+cloud+infrastructure" alt="Typing SVG" /></a>
@@ -106,14 +106,7 @@ I build and scale **B2B SaaS products** in startup environments — taking full 
 <!-- GitHub Stats -->
 ## `> git stats`
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirmovsum-abasov&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&ring=326CE5&fire=326CE5&currStreakLabel=326CE5" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=mirmovsum-abasov&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&icon_color=326CE5&title_color=326CE5&include_all_commits=true&count_private=true" width="49%" />
-</div>
-
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirmovsum-abasov&theme=github_dark&hide_border=true&border_radius=10&title_color=326CE5&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=c%2523" width="40%" />
-</div>
 
 ---
 
