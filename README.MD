@@ -1,18 +1,138 @@
-# 💫 About Me:
-🔭 I’m currently working on
+<div align="center">
 
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a5c,100:326ce5&height=220&section=header&text=Miri%20Abasov&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20DevOps&descSize=18&descAlignY=55&descColor=94a3b8&animation=fadeIn" width="100%" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/miriii) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miri.abasov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirmovsum-abasov) 
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=326CE5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Building+scalable+B2B+SaaS+products;From+code+to+cloud+infrastructure" alt="Typing SVG" /></a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=mirmovsum-abasov&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirmovsum-abasov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- About -->
+## `> whoami`
+
+```yaml
+name: Miri Abasov
+role: Software Engineer
+experience: 8+ years
+location: Baku, Azerbaijan
+company: MagicPort (Singapore)
+focus: Backend Development, Cloud Infrastructure, DevOps
+```
+
+I build and scale **B2B SaaS products** in startup environments — taking full ownership from system architecture to production deployment. I've delivered **10+ production-grade web applications** from scratch and architected **Kubernetes infrastructure from the ground up** across GCP and Azure.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mirmovsum-abasov&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Tech Stack -->
+## `> tech-stack --categorized`
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+### ⚡ Backend
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</div>
+</td>
+
+<td valign="top" width="25%">
+
+### ☁️ Cloud & DevOps
+<div align="center">
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</div>
+</td>
+
+<td valign="top" width="25%">
+
+### 🗄️ Databases
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+</div>
+</td>
+
+<td valign="top" width="25%">
+
+### 🛠️ Infrastructure
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+<!-- What I Do -->
+## `> cat achievements.log`
+
+```
+→ Built and delivered 10+ production-grade web applications from scratch
+→ Architected Kubernetes infrastructure from the ground up (GCP & Azure)
+→ Designed developer-friendly CI/CD pipelines reducing deployment complexity
+→ Optimized database performance for high-traffic production systems
+→ Created reusable K8s templates & GitHub Actions workflows for the team
+→ Managed cloud storage, VPS servers, and database migrations end-to-end
+```
+
+---
+
+<!-- GitHub Stats -->
+## `> git stats`
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirmovsum-abasov&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&ring=326CE5&fire=326CE5&currStreakLabel=326CE5" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mirmovsum-abasov&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&icon_color=326CE5&title_color=326CE5&include_all_commits=true&count_private=true" width="49%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirmovsum-abasov&theme=github_dark&hide_border=true&border_radius=10&title_color=326CE5&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="40%" />
+</div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mirmovsum-abasov&bg_color=0d1117&color=94a3b8&line=326CE5&point=326CE5&area=true&area_color=326CE5&hide_border=true" width="98%" />
+</div>
+
+---
+
+<!-- Connect -->
+<div align="center">
+
+### `> connect --with me`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirmovsum-abasov)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miri.abasov)
+
+</div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a5c,100:326ce5&height=120&section=footer" width="100%" />
