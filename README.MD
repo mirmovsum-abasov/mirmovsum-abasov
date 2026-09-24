@@ -1,16 +1,15 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Miri%20Abasov&fontSize=48&fontColor=e6edf3&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Cloud%20%26%20DevOps&descSize=16&descAlignY=78&descColor=9198a1">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Miri%20Abasov&fontSize=48&fontColor=1f2328&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Cloud%20%26%20DevOps&descSize=16&descAlignY=78&descColor=59636e" width="100%" alt="Miri Abasov — Software Engineer">
-</picture>
+<h1>Miri Abasov</h1>
+
+<p><b>Software Engineer · Backend · Cloud &amp; DevOps</b></p>
 
 Software Engineer with 8+ years of experience building and scaling B2B SaaS products — from application code to cloud infrastructure.
 
 Baku, Azerbaijan · Remote · Currently at [MagicPort](https://magicport.ai) (Singapore)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirmovsum-abasov)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/miri.abasov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/mirmovsum-abasov)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://instagram.com/miri.abasov)
 
 </div>
 
@@ -53,11 +52,6 @@ I design, build and operate production systems end to end: backend services and 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mirmovsum-abasov&hide_border=true&border_radius=8&background=0D1117&stroke=3D444D&ring=4493F8&fire=4493F8&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=4493F8&sideLabels=9198A1&dates=9198A1">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirmovsum-abasov&hide_border=true&border_radius=8&background=FFFFFF&stroke=D1D9E0&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=59636E&dates=59636E" width="70%" alt="GitHub streak">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mirmovsum-abasov&bg_color=0D1117&color=9198A1&title_color=E6EDF3&line=4493F8&point=E6EDF3&area=true&area_color=4493F8&hide_border=true&custom_title=Contribution%20activity">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirmovsum-abasov&bg_color=FFFFFF&color=59636E&title_color=1F2328&line=0969DA&point=1F2328&area=true&area_color=0969DA&hide_border=true&custom_title=Contribution%20activity" width="100%" alt="Contribution activity">
 </picture>
 
 </div>
