@@ -42,7 +42,7 @@ Software Engineer at [MagicPort](https://magicport.ai) · 8+ years in production
 ### Toolbox
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,symfony,python,vue,kubernetes,docker,gcp,azure,githubactions,mysql,redis,elasticsearch,linux,nginx,cloudflare,bash&theme=dark&perline=17">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Claravel%2Csymfony%2Cpython%2Cvue%2Ckubernetes%2Cdocker%2Cgcp%2Cazure%2Cgithubactions%2Cmysql%2Credis%2Celasticsearch%2Clinux%2Cnginx%2Ccloudflare%2Cbash&theme=dark&perline=17">
   <img src="https://skillicons.dev/icons?i=php,laravel,symfony,python,vue,kubernetes,docker,gcp,azure,githubactions,mysql,redis,elasticsearch,linux,nginx,cloudflare,bash&theme=light&perline=17" alt="PHP, Laravel, Symfony, Python, Vue, Kubernetes, Docker, GCP, Azure, GitHub Actions, MySQL, Redis, Elasticsearch, Linux, Nginx, Cloudflare, Bash">
 </picture>
 
